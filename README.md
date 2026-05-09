@@ -1,8 +1,8 @@
 # Hi, I'm Kostiantyn 👋
 
-Backend .NET Developer from Ukraine 🇺🇦
+.NET Developer from Ukraine 🇺🇦
 
-I build server-side applications with a focus on clean architecture, CQRS patterns, and containerized deployments. Currently looking for a Junior .NET Developer position where I can grow and contribute to a real product.
+I build server-side applications with a focus on clean architecture and optimized solutions. Currently looking for a position where I can grow and contribute to a real product.
 
 ---
 
@@ -18,10 +18,17 @@ I build server-side applications with a focus on clean architecture, CQRS patter
 - Clean Architecture
 - MediatR · CQRS
 
+**Databases**
+- MS SQL
+- Redis
+
+**Messaging**
+- RabbitMQ · MassTransit
+
 **DevOps & Tools**
 - Docker · Docker Compose
 - Git · GitHub
-- xUnit · Moq
+- xUnit
 
 ---
 
@@ -29,11 +36,11 @@ I build server-side applications with a focus on clean architecture, CQRS patter
 
 ### [EMarket](https://github.com/KostiantynMyroniuk/EMarket)
 Microservices-based e-commerce API built with ASP.NET Core and Docker Compose. Each service is independently deployable and communicates via REST.
-`C#` `Microservices` `Docker` `ASP.NET Core`
+`C#` `Microservices` `Docker` `Redis`
 
 ### [JobDeck](https://github.com/KostiantynMyroniuk/JobDeck)
 A job application tracking app — manage your job search pipeline in one place.
-`C#` `ASP.NET Core` `Docker`
+`C#` `Microservices` `CQRS` `MediatR` `Docker`
 
 ### [JobFinder](https://github.com/KostiantynMyroniuk/JobFinder)
 Job search application built with CQRS and MediatR patterns. Includes unit tests.
