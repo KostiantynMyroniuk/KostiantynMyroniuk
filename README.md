@@ -10,13 +10,13 @@ I build server-side applications with a focus on clean architecture, CQRS patter
 
 **Languages & Frameworks**
 - C# / ASP.NET Core
+- .Net 7-10
 - Entity Framework Core
-- MediatR · CQRS
 
 **Architecture & Patterns**
 - REST API · Microservices
-- Repository Pattern · Clean Architecture
-- JWT Authentication
+- Clean Architecture
+- MediatR · CQRS
 
 **DevOps & Tools**
 - Docker · Docker Compose
